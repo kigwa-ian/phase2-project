@@ -59,3 +59,4 @@ This project follows the **Airbnb ESLint** configuration to maintain code consis
 ```
 npm run lint
 ```
+# react-chess-app
